@@ -1,6 +1,6 @@
 import streamlit as st
-view = [100,150,30]
-st.write('# Youtube view')
+view = [100,150,30,15,5,3]
+st.write('# 나령 윤기도 Sample view')
 st.write('## raw')
 view
 st.write('## bar chrt')
